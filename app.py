@@ -22,8 +22,8 @@ def load_data(path: str):
     data = pd.read_csv(path)
     return data
 
-squads_df = load_data('AFCON Squads Stats.csv')
-players_df = load_data('AFCON Players Stats.csv')
+squads_df = load_data('https://raw.githubusercontent.com/TeamXGroup/AFCON23-Streamlit-Dashboard/main/Datasets/AFCON%20Squads%20Stats.csv')
+players_df = load_data('https://raw.githubusercontent.com/TeamXGroup/AFCON23-Streamlit-Dashboard/main/Datasets/AFCON%20Players%20Stats.csv')
 
 
 
