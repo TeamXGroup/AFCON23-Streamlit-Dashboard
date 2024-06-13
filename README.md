@@ -19,5 +19,5 @@ For data collection, We performed the <b>Web Scraping</b> process on two separat
 To access the AFCON23 Dashboard online, simply visit ............<br><br>
 If you prefer to run the dashboard locally, follow these steps:<br>
 1. Clone the repository:
-```python
-git clone https://github.com/TeamXGroup/AFCON23-Streamlit-Dashboard.git
+```bash
+git clone https://github.com/TeamXGroup/AFCON23-Streamlit-Dashboard.git```
