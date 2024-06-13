@@ -16,8 +16,8 @@ For data collection, We performed the <b>Web Scraping</b> process on two separat
 <li><a href="https://fbref.com/en/comps/656/2024/stats/2024-league-Stats">2023 Africa Cup of Nations Stats</a></li> 
 
 <h2 id="demo-usage"> 📍 Demo & Usage</h2>
-To access the AFCON23 Dashboard online, simply visit ............<br><br>
-If you prefer to run the dashboard locally, follow these steps:<br>
+To access the AFCON23 Dashboard online, go to : https://afcon23-dashboard.streamlit.app <br><br>
+If you prefer to run the dashboard locally, follow these steps:<br><br>
 
 1. **Clone the repository:**
     ```bash
