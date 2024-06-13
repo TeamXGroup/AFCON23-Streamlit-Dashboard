@@ -12,4 +12,5 @@ Welcome to the AFCON23 Dashboard! This dashboard will represent an interactive a
 <b>  ●  User-friendly Interface:</b> Easy-to-navigate interface built with Streamlit.
 
 <h2 id="data-collection"> 🔎 Data Collection</h2>
-For data collection, We Scrape data from the football stats website FBRef : <li><a href="https://fbref.com/en/comps/656/2024/stats/2024-league-Stats">2023 Africa Cup of Nations Stats</a></li> <br>We performed this web scraping process on two separate datasets: one covering the participating teams and the other on the players involved in the competition.
+For data collection, We performed the Web Scraping process on two separate datasets from the football stats website FBRef; one covering the participating teams and the other on the players involved in the competition.<br>
+<li><a href="https://fbref.com/en/comps/656/2024/stats/2024-league-Stats">2023 Africa Cup of Nations Stats</a></li> 
