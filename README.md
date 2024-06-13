@@ -12,5 +12,9 @@ Welcome to the AFCON23 Dashboard! This dashboard will represent an interactive a
 <b>  ●  User-friendly Interface:</b> Easy-to-navigate interface built with Streamlit.
 
 <h2 id="data-collection"> 🔎 Data Collection</h2>
-For data collection, We performed the Web Scraping process on two separate datasets from the football stats website FBRef; one covering the participating teams and the other on the players involved in the competition.<br>
+For data collection, We performed the <b>Web Scraping</b> process on two separate datasets from the football stats website FBRef; one covering the participating teams and the other on the players involved in the competition.<br><br>
 <li><a href="https://fbref.com/en/comps/656/2024/stats/2024-league-Stats">2023 Africa Cup of Nations Stats</a></li> 
+
+<h2 id="demo-usage"> 📍 Demo & Usage</h2>
+To access the AFCON23 Dashboard online, simply visit ............<br><br>
+If you prefer to run the dashboard locally, follow these steps:
