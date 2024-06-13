@@ -20,19 +20,18 @@ To access the AFCON23 Dashboard online, simply visit ............<br><br>
 If you prefer to run the dashboard locally, follow these steps:<br>
 
 1. **Clone the repository:**
-
     ```bash
-    git clone https://github.com/yourusername/afcon23-dashboard.git
+    git clone https://github.com/TeamXGroup/AFCON23-Streamlit-Dashboard.git
     ```
-
 2. **Navigate to the project directory:**
-
     ```bash
-    cd afcon23-dashboard
+    cd AFCON23-Streamlit-Dashboard
     ```
-
 3. **Install the required dependencies:**
-
     ```bash
     pip install -r requirements.txt
+    ```
+4. **Run the App:**
+    ```bash
+    streamlit run app.py
     ```
