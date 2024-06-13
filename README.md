@@ -18,7 +18,7 @@ For data collection, We performed the <b>Web Scraping</b> process on two separat
 <h2 id="demo-usage"> 📍 Demo & Usage</h2>
 To access the AFCON23 Dashboard online, go to :<br><br>
 <li><a href="https://afcon23-dashboard.streamlit.app/">AFCON23 DASHBOARD</a></li> 
-If you prefer to run the dashboard locally, follow these steps:<br><br>
+<br><br>If you prefer to run the dashboard locally, follow these steps:<br><br>
 
 1. **Clone the repository:**
     ```bash
